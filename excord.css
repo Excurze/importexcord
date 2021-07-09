@@ -75,7 +75,8 @@
     --home-icon: url(https://clearvision.gitlab.io/icons/discord.svg);
     --home-position: center;
     --home-size: 40px
-/* CUSTOM VARIABLES */
+
+	/* CUSTOM VARIABLES */
 	--panels-opacity: rgba(0, 0, 0, 0.7);   /* Panels opacity */
 	--loading-gif: url(https://imgur.com/x4fg0Qv.gif); /* Loading gif */
 	--general-margin: 25px;      /* App margin */
