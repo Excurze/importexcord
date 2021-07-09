@@ -259,7 +259,7 @@ textarea,
     text-shadow: 0 0 3px #000
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-    content: "v0.0.2Beta";
+    content: "v0.5";
     color: rgba(255, 255, 255, 0.3);
     font-family: var(--code-font);
     font-size: 10px
@@ -9562,7 +9562,7 @@ button[aria-label="Send a gift"],
     text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7>.wordmark-2iDDfm:after {
-    content: "v0.4beta";
+    content: "v0.5";
     color: rgba(255,255,255,0.3);
     font-family: var(--code-font);
     font-size: 10px;
