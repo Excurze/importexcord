@@ -222,52 +222,6 @@ textarea,
 .notice-3bPHh- .textLink-27KAGV {
     color: #fff
 }
-.typeWindows-1za-n7 {
-    height: 18px;
-    width: 100vw;
-    margin: 0;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
-    box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * .6))
-}
-.typeWindows-1za-n7 > .wordmark-2iDDfm {
-    position: static;
-    margin-right: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 1;
-    pointer-events: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    order: 1
-}
-.typeWindows-1za-n7 {
-    height: 18px;
-    width: 100vw;
-    margin: 0;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
-    box-shadow: 0 0 20px rgba(0, 0, 0, calc(var(--background-shading) * .6))
-}
-.typeWindows-1za-n7 > .wordmark-2iDDfm {
-    position: static;
-    margin-right: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    opacity: 1;
-    pointer-events: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    order: 1
-}
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before,
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
     margin-left: 3px;
