@@ -309,7 +309,7 @@ textarea,
     text-shadow: 0 0 3px
 }
 .typeMacOS-3EmCyP:after {
-    content: "v0.0.2Beta";
+    content: "v0.5";
     color: rgba(255, 255, 255, 0.3)
 }
 .base-3dtUhz .container-1r6BKw {
@@ -1233,7 +1233,7 @@ textarea,
     transform: translateX(50%)
 }
 .container-3baos1:after {
-    content: "V0.0.1Beta";
+    content: "V0.5";
     left: 50%;
     text-align: left;
     opacity: 0;
