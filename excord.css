@@ -9750,3 +9750,13 @@ div[id^="pinned-messages-"] .contents-2mQqc9 img {
 }
 
 .groupStart-23k01U:not(.cozyMessage-3V1Y8y):not(.backgroundFlash-24qWLN) {display: none}
+
+.wrapper-25eVIn svg {
+    overflow: hidden;
+}
+
+.role-2irmRk{
+  background: transparent;
+  border: 1px solid;
+  border-radius: 50px;
+}
