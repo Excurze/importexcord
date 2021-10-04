@@ -936,8 +936,9 @@ textarea,
 }
 .childWrapper-anI2G9 {
     background: rgba(0, 0, 0, 0);
-    color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
     transition: all 0.3s ease-in-out;
+}
 }
 .wrapper-1BJsBx:hover .childWrapper-anI2G9,
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
