@@ -68,7 +68,7 @@ foreignobject[mask] {
     border-radius: var(--panels-radius)
 }
 .chatContent-a9vAAp > .form-2fGMdU {
-    padding: 0;
+    padding: 2px;
     background-color: var(--panels-opacity);
     border-radius: var(--panels-radius)
 }
