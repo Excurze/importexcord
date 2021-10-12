@@ -9445,3 +9445,10 @@ height: 1.05rem;
 .audioMetadata-3zOuGv::before {
  min-width: 24px;
 }
+
+
+    	[class*="roleIcon"] {
+     float: left;
+        	margin-left: 0rem;
+        	margin-right: .25rem;
+        	}
