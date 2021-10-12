@@ -9441,3 +9441,7 @@ height: 1.05rem;
     text-align: center;
     z-index: 101;
     }
+
+.audioMetadata-3zOuGv::before {
+ min-width: 24px;
+}
