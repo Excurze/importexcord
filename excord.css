@@ -9452,3 +9452,26 @@ height: 1.05rem;
         	margin-left: 0rem;
         	margin-right: .25rem;
         	}
+/* Restore old Discord Icon */
+
+.contentWrapperWithSnowsgivingNotice-1AvSpB { 
+   grid-template-rows: 40px auto; 
+}
+.contentWrapperWithSnowsgivingNotice-1AvSpB > .wrapper-2ojdJo:first-child {
+    display: none; }
+
+.contentWrapperWithSnowsgivingNotice-1AvSpB > .nav-7UD0KD { 
+    padding-top: 16px
+}
+
+div.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8 {
+    display: :none;
+}
+
+path[d="M42.6,20.64a1.5,1.5,0,1,0-1.5-1.5A1.5,1.5,0,0,0,42.6,20.64Z"],
+path[d="M20.82,6.14a.89.89,0,1,0-.89-.89A.89.89,0,0,0,20.82,6.14Z"],
+path[d="M4.93,32.06a1,1,0,0,0,0-2,1,1,0,1,0,0,2Z"],
+path[d="M11.22,11.72A1.79,1.79,0,1,0,9.44,9.94,1.79,1.79,0,0,0,11.22,11.72Z"],
+path[d="M48,38.94V48H0V40.18a17,17,0,0,1,1.55.76c6.49-4.13,10.29-2.65,14.89,0s6.73.84,10.49,0a8.47,8.47,0,0,1,7,1.58C37.32,39.81,41.71,34.8,48,38.94Z"] {
+d: path("");
+}
