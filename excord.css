@@ -3826,6 +3826,9 @@ textarea::-webkit-scrollbar {
 .contents-2MsGLg > img[src*="778306856971272204"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
     content: "ExCord Team"
 }
+.contents-2MsGLg > img[src*="965212930511609866"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
+    content: "ExCord VIP"
+}
 
 
 .message-2CShn3 .avatar-2e8lTP {
