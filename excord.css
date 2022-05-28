@@ -8590,17 +8590,4 @@ foreignobject[mask] {
     overflow-x: hidden;
     overflow-y:scroll;
 }
-/* Messages Slide In Chat */
-@keyframes slide-up {
-  0% {
-      opacity: 0;
-      transform: translateX(20px);
-  }
-  100% {
-      opacity: 1;
-      transform: translateX(0px);
-  }
-}
-.message-2CShn3 {
-animation: slide-up 0.4s ease;
-}
+
