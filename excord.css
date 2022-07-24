@@ -3838,6 +3838,15 @@ textarea::-webkit-scrollbar {
 .contents-2MsGLg > img[src*="487821373029482518"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
     content: "7S"
 }
+.contents-2MsGLg > img[src*="112695444760489984"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
+    content: "7S"
+}
+.contents-2MsGLg > img[src*="430758813377888288"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
+    content: "7S"
+}
+.contents-2MsGLg > img[src*="563417873037656064"] ~ .header-2jRmjb > .headerText-2z4IhQ > .username-h_Y3Us::after {
+    content: "7S"
+}
 
 
 .message-2CShn3 .avatar-2e8lTP {
