@@ -8608,3 +8608,16 @@ foreignobject[mask] {
     overflow-x: hidden;
     overflow-y:scroll;
 }
+
+#account.menu-1QACrS {
+width: 220px;
+}
+#account.menu-1QACrS .submenu-1apzyU[aria-activedescendant^="account-status-picker"] {
+max-width: 220px;
+}
+#account.menu-1QACrS .profileGroup-1yKk23,
+#account.menu-1QACrS .profileGroup-1yKk23 + .separator-1So4YB {
+display:none;
+}
+
+
