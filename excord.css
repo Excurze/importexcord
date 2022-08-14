@@ -8646,35 +8646,4 @@ background: inherit;
 opacity: var(--transparency);
 }
 
-.justifyAuto-BLgJ2X {
-justify-self: start!important;
-}
-
-#app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n:before {
-content: "";
-border-radius: 50%;
-position: absolute;
-background: var(--home-button-image, url("https://i.imgur.com/sH3LvMz.png"));
-background-size: var(--home-button-size, cover);
-background-position: var(--home-button-position, center);
-height: 100%;
-width: 100%;
-transition: 0.2s ease;
-}
-.homeIcon-r0w4ny {
-  display: none;
-}
-
-
-	[aria-label="Close"]:hover {
-	background-color: #ED4245 !important;
-	}
-	
-	[aria-label="Maximize"]:hover {
-	background-color: #FEE75C !important;
-}
-
-[aria-label="Minimize"]:hover {
-	background-color: #57F287 !important;
-	}
 
